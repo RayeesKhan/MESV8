@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple Image Example</title>
+    <title>interduced nw Simple Image Example</title>
 </head>
 <body>
     <h2>My Favorite Image</h2>
